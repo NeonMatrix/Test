@@ -1,2 +1,6 @@
 lalaa
+<<<<<<< HEAD
 this is a brand new change to solve x code
+=======
+blalalal
+>>>>>>> e4b66a2 (Update test.txt)
